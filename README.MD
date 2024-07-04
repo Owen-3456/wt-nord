@@ -37,3 +37,5 @@ settings.json can be found from the Windows Terminal Settings (Ctrl + ,).
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
+
+With my [PowerShell Profile](https://github.com/owen-3456/powershell-profile)
