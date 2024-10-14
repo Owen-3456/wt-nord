@@ -10,27 +10,27 @@ settings.json can be found from the Windows Terminal Settings (Ctrl + ,).
 
 ```json
 {
-    "background": "#0C0C0C",
-    "black": "#0C0C0C",
-    "blue": "#0037DA",
-    "brightBlack": "#767676",
-    "brightBlue": "#3B78FF",
-    "brightCyan": "#61D6D6",
-    "brightGreen": "#16C60C",
-    "brightPurple": "#B4009E",
-    "brightRed": "#E74856",
-    "brightWhite": "#F2F2F2",
-    "brightYellow": "#F9F1A5",
-    "cursorColor": "#FFFFFF",
-    "cyan": "#3A96DD",
-    "foreground": "#FFFFFF",
-    "green": "#13A10E",
-    "name": "Campbell",
-    "purple": "#881798",
-    "red": "#C50F1F",
-    "selectionBackground": "#FFFFFF",
-    "white": "#CCCCCC",
-    "yellow": "#C19C00"
+    "background": "#2E3440",
+    "black": "#8292B5",
+    "blue": "#5E81AC",
+    "brightBlack": "#A5BAE6",
+    "brightBlue": "#81A1C1",
+    "brightCyan": "#8FBCBB",
+    "brightGreen": "#A3BE8C",
+    "brightPurple": "#B48EAD",
+    "brightRed": "#BF616A",
+    "brightWhite": "#ECEFF4",
+    "brightYellow": "#EBCB8B",
+    "cursorColor": "#D8DEE9",
+    "cyan": "#88C0D0",
+    "foreground": "#D8DEE9",
+    "green": "#A3BE8C",
+    "name": "Nord",
+    "purple": "#B48EAD",
+    "red": "#BF616A",
+    "selectionBackground": "#4C566A",
+    "white": "#E5E9F0",
+    "yellow": "#EBCB8B"
 }
 ```
 
